@@ -1,2 +1,2 @@
 # CS50_exercise
-cs50 Exercise code upload repository
+cs50 연습 코드 업로드 repository
